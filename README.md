@@ -42,7 +42,7 @@ To utilize Multi_ErNano, follow these steps:
 
 # Citation
 
-This script is provided by ATGC Bioinformatics Services for the benefit of early-stage biological scientists, aiming to facilitate RNA-seq data analysis without extensive coding requirements. If you find Multi_ErNano useful, please support its development and maintenance by citing it appropriately. Additionally, cite the individual tools (minimap2, featureCounts, stringTie2) used within the pipeline for their contributions.
+This script is provided by ATGC Bioinformatics Services for the benefit of early-stage biological scientists, aiming to facilitate RNA-seq data analysis without extensive coding requirements. If you find Multi_ErNano useful, please support its development and maintenance by citing it appropriately (DOI: 10.5281/zenodo.12559922). Additionally, cite the individual tools (minimap2, featureCounts, stringTie2) used within the pipeline for their contributions.
 Contact
 
 For comments, suggestions, or bug reports, please contact admin@atgcbioinfo.com.
